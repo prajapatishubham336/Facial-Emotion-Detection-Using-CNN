@@ -1,9 +1,11 @@
 # Facial-Emotion-Detection-Using-CNN
 A deep learning-based Facial Emotion Detection System developed using TensorFlow/Keras, OpenCV, and the FER2013 dataset. The model classifies facial expressions into seven different emotions and performs real-time emotion detection using a webcam.
 
-## Project Overview
 
-A deep learning-based Facial Emotion Detection System developed using **TensorFlow/Keras**, **OpenCV**, and the **FER2013 dataset**. The model classifies facial expressions into seven different emotions and performs real-time emotion detection using a webcam.
+## 📖 Project Overview
+
+This project is a **Facial Emotion Detection System** developed using **CNN, TensorFlow/Keras, and OpenCV**. The model is trained on the **FER2013 dataset** to classify facial expressions into seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. It performs **real-time emotion detection** through a webcam, demonstrating the practical application of **Deep Learning** and **Computer Vision**.
+
 
 ---
 
